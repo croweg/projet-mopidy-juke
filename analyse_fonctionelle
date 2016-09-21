@@ -19,10 +19,10 @@ Fp1 : Permettre à l’utilisateur de contrôler le jukebox à l’aide d’un s
 Fp2 : Permettre à l’utilisateur d’écouter de la musique via des enceintes 
 
 Fs1 : Permettre à l’utilisateur d’accéder au jukebox connecté
-Fs2 : Servir d’interface pour le jukebox connecté
+Fs2 : Permettre à l'utilisateur d'ajouter de la musique sur le jukebox
 Fs3 : Permettre au jukebox de diffuser de la musqiue 
 Fs4 : Etre rapide et intuitif d’utilisation 
-Fs5 : Permettre au jukebox d’interconnecter  les utilisateurs, le système audio et une base de données musicales
+Fs5 : Permettre au jukebox d’interconnecter les utilisateurs, le système audio et une base de donnée musicale
 Fs6 : Alimenter le système 
 Fs7 : Résister aux contraintes extérieures
 Fs8 : Etre visuellement agréable 
