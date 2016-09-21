@@ -1,13 +1,29 @@
                                       Analyse fonctionnelle du besoin
 
 
+3) Validation du besoin : (Permettre à un groupe souhaitant écouter de la musique, de l'ajouter en temps réél sur un system audio)
+
+Pourquoi le besoin existe-t-il ?
+- Pour permettre a n'importe qui d'ajouter de la musique en soirée
+- Parceque la musique ne peut convenir a tout le monde
+
+Qu’est ce qui pourrait le faire disparaître ?
+- Plus de soirée (improbable)
+- Coupure d'internet (improbables)
+
+Qu’est ce qui pourrait faire évoluer le besoin ?
+- Amélioration du produit grâce à des technologies nouvelles.
+
+Conclusion
+A long terme, le besoin est donc validé.
 
 
 
 
-Quoi ?                       Ecouter de la musique en temps réel.
-Qui ?                         Un groupe désirant écouter de la musique
-Quand ?                    Un groupe désire écouter de la musique
+
+Quoi ?                  Ecouter de la musique en temps réel.
+Qui ?                   Un groupe désirant écouter de la musique
+Quand ?                 Un groupe désire écouter de la musique
 Comment ?               Un ensemble de personne voulant écouter de la musique convenant à une majorité. Il faut donc que chacun puisse ajouter de la musique simplement et rapidement.
 Pourquoi ?              Permettre à chacun de pouvoir choisir la musique qu’il souhaite écouter
 
@@ -16,16 +32,15 @@ Pourquoi ?              Permettre à chacun de pouvoir choisir la musique qu’i
 
 
 Fp1 : Permettre à l’utilisateur de contrôler le jukebox à l’aide d’un smartphone
-Fp2 : Permettre à l’utilisateur d’écouter de la musique via des enceintes 
 
-Fs1 : Permettre à l’utilisateur d’accéder au jukebox connecté
-Fs2 : Permettre à l'utilisateur d'ajouter de la musique sur le jukebox
-Fs3 : Permettre au jukebox de diffuser de la musqiue 
-Fs4 : Etre rapide et intuitif d’utilisation 
-Fs5 : Permettre au jukebox d’interconnecter les utilisateurs, le système audio et une base de donnée musicale
-Fs6 : Alimenter le système 
-Fs7 : Résister aux contraintes extérieures
-Fs8 : Etre visuellement agréable 
+Fc1 : Permettre à l'utilisateur d'ajouter de la musique sur le jukebox
+Fc2 : Permettre au jukebox de diffuser de la musique 
+Fc3 : Etre rapide et intuitif d’utilisation 
+Fc4 : Permettre au jukebox d’interconnecter les utilisateurs, le système audio et une base de donnée musicale
+Fc5 : Alimenter le système 
+Fc6 : Résister aux contraintes extérieures (a 
+Fc7 : Etre visuellement agréable 
 
+                                
                                 
        
